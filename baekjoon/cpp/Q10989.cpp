@@ -1,5 +1,3 @@
-//Q10989 수 정렬하기 3
-//endl 대신 "\n" 사용하는게 런타임 단축 됨.
 #include <iostream>
 
 using namespace std;

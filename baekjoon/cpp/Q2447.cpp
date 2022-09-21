@@ -1,4 +1,3 @@
-//Q2447 º° Âï±â - 10
 #include <iostream>
 
 char result[10000][10000];
